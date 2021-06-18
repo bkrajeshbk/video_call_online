@@ -1,10 +1,10 @@
 {
-  "name": "my_video_app",
+  "name": "video_call_online",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "monStart": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
